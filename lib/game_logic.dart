@@ -7,6 +7,7 @@ import 'constants.dart';
 import 'parser.dart';
 import 'dart:math';
 
+// a comment
 class GameLogic {
   GameState gameState;
   GameState gameStateSaved;
